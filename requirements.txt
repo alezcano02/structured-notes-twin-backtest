@@ -1,0 +1,10 @@
+pandas
+pyarrow
+numpy
+scipy
+requests
+matplotlib
+seaborn
+statsmodels
+jupyter
+arch
